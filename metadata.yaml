@@ -1,11 +1,16 @@
 _repo: Roman-nepdalok-es-balladak_62596
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moldován, Gergely
     gutenberg_agent_id: '52021'
     url: http://www.gutenberg.org/2009/agents/52021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62596#Roman-nepdalok-es-balladak
 gutenberg_issued: '2020-07-09'
 gutenberg_type: Text
 identifiers:
